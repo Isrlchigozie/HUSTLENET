@@ -32,17 +32,13 @@ Bringing students, graduates, and hustlers together to work, earn, and grow.
 - JWT Authentication  
 - Django Authentication System  
 
-**Deployment & Hosting:**  
-- Netlify (Frontend)  
-- Render / Railway / Heroku (Backend) *(update with what you actually used)*  
 
-**Other Tools:**  
-- Git & GitHub (Version Control)  
+**Other Tools:**    
 - Postman (API testing)  
 
 
 ##  Repository Details
-This repository **only contains UI previews (images/screenshots)** of HustleNet 2.  
+This repository **only contains UI previews (images/screenshots)** of HustleNet.
 👉 The actual source code is private.  
 
 ---
